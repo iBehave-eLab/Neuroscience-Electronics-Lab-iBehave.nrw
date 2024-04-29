@@ -102,19 +102,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="img_nature_wide.jpg" style="width:100%">
+  <img src="https://github.com/iBehave-eLab/Neuroscience-Electronics-Lab-iBehave.nrw/blob/main/pictures/Rendering%203D%20Lick%20Detector%20Box-3.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="img_snow_wide.jpg" style="width:100%">
+  <img src="https://github.com/iBehave-eLab/Neuroscience-Electronics-Lab-iBehave.nrw/blob/main/pictures/Rendering%20of%20PCB.png" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
+  <img src="https://github.com/iBehave-eLab/Neuroscience-Electronics-Lab-iBehave.nrw/blob/main/pictures/schaltbild%20lick%20detection.png" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
